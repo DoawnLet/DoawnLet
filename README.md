@@ -1,5 +1,5 @@
 ## Hi Guys 👋
-- I’m currently working on Visual Studio with dotnet
+- I’m currently working on Visual Studio with .NET
 - Try to do - Improve - Development.
 - AI engine - Multiple Control Action Flow
 - Software development services are available here.
